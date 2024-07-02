@@ -11,7 +11,7 @@
 This script allows you to fall unconscious if you have less than 50% of Health. You will regain consciousness when your health is restored, or the players will help you with ammonia and cotton pad
 
 <p align="center">
-<a href="https://forum.cfx.re/t/all-f-w-standalone-suicide-advanced-system-hold-the-gun-for-as-long-as-you-want/5243700">CFX.RE Topic</a>
+<a href="https://forum.cfx.re/t/free-unconscious-system/5246603">CFX.RE Topic</a>
 </p>
 
 
